@@ -1,0 +1,12 @@
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\bin\Debug\Remote_Controller.exe.config
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\bin\Debug\Remote_Controller.exe
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\bin\Debug\Remote_Controller.pdb
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\obj\Debug\Remote_Controller.MainForm.resources
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\obj\Debug\Remote_Controller.Properties.Resources.resources
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\obj\Debug\Remote_Controller.RemoteCleintForm.resources
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\obj\Debug\Remote_Controller.VirtualCursorForm.resources
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\obj\Debug\Remote_Controller.csproj.GenerateResource.cache
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\obj\Debug\Remote_Controller.csproj.CoreCompileInputs.cache
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\obj\Debug\Remote_Controller.exe
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\obj\Debug\Remote_Controller.pdb
+C:\Users\JOO\Desktop\Remote_control\RemoteC\Remote_Controller\obj\Debug\Remote_Controller.csprojResolveAssemblyReference.cache
